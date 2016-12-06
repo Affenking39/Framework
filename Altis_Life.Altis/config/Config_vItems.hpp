@@ -160,8 +160,8 @@ class VirtualItems {
         variable = "defibrillator";
         displayName = "STR_Item_Defibrillator";
         weight = 4;
-        buyPrice = 900;
-        sellPrice = 450;
+        buyPrice = 1900;
+        sellPrice = 1000;
         illegal = false;
         edible = -1;
         icon = "icons\ico_defibrillator.paa";
@@ -204,8 +204,8 @@ class VirtualItems {
         variable = "spikeStrip";
         displayName = "STR_Item_SpikeStrip";
         weight = 15;
-        buyPrice = 2500;
-        sellPrice = 1200;
+        buyPrice = 500;
+        sellPrice = 200;
         illegal = true;
         edible = -1;
         icon = "icons\ico_spikeStrip.paa";
@@ -214,9 +214,9 @@ class VirtualItems {
     class lockpick {
         variable = "lockpick";
         displayName = "STR_Item_Lockpick";
-        weight = 1;
-        buyPrice = 150;
-        sellPrice = 75;
+        weight = 2;
+        buyPrice = 1100;
+        sellPrice = 175;
         illegal = true;
         edible = -1;
         icon = "icons\ico_lockpick.paa";
@@ -227,7 +227,7 @@ class VirtualItems {
         displayName = "STR_Item_GoldBar";
         weight = 12;
         buyPrice = -1;
-        sellPrice = 95000;
+        sellPrice = 195000;
         illegal = true;
         edible = -1;
         icon = "icons\ico_goldBar.paa";
@@ -259,8 +259,8 @@ class VirtualItems {
         variable = "defuseKit";
         displayName = "STR_Item_DefuseKit";
         weight = 2;
-        buyPrice = 2500;
-        sellPrice = 2000;
+        buyPrice = 500;
+        sellPrice = 200;
         illegal = true;
         edible = -1;
         icon = "icons\ico_defuseKit.paa";
@@ -270,8 +270,8 @@ class VirtualItems {
         variable = "storageSmall";
         displayName = "STR_Item_StorageBS";
         weight = 5;
-        buyPrice = 75000;
-        sellPrice = 50000;
+        buyPrice = 7500;
+        sellPrice = 5000;
         illegal = false;
         edible = -1;
         icon = "icons\ico_storageSmall.paa";
@@ -281,8 +281,8 @@ class VirtualItems {
         variable = "storageBig";
         displayName = "STR_Item_StorageBL";
         weight = 10;
-        buyPrice = 150000;
-        sellPrice = 125000;
+        buyPrice = 15000;
+        sellPrice = 12500;
         illegal = false;
         edible = -1;
         icon = "icons\ico_storageBig.paa";
@@ -327,7 +327,7 @@ class VirtualItems {
         displayName = "STR_Item_CopperIngot";
         weight = 3;
         buyPrice = -1;
-        sellPrice = 1500;
+        sellPrice = 450000;
         illegal = false;
         edible = -1;
         icon = "icons\ico_copper.paa";
@@ -371,7 +371,7 @@ class VirtualItems {
         displayName = "STR_Item_SaltR";
         weight = 1;
         buyPrice = -1;
-        sellPrice = 1450;
+        sellPrice = 2050;
         illegal = false;
         edible = -1;
         icon = "icons\ico_saltProcessed.paa";
@@ -393,7 +393,7 @@ class VirtualItems {
         displayName = "STR_Item_Glass";
         weight = 1;
         buyPrice = -1;
-        sellPrice = 1450;
+        sellPrice =-1;
         illegal = false;
         edible = -1;
         icon = "icons\ico_glass.paa";
@@ -415,7 +415,7 @@ class VirtualItems {
         displayName = "STR_Item_DiamondC";
         weight = 2;
         buyPrice = -1;
-        sellPrice = 2000;
+        sellPrice = 3000;
         illegal = false;
         edible = -1;
         icon = "icons\ico_diamondCut.paa";
@@ -460,8 +460,8 @@ class VirtualItems {
         variable = "heroinProcessed";
         displayName = "STR_Item_HeroinP";
         weight = 4;
-        buyPrice = 3500;
-        sellPrice = 2560;
+        buyPrice = 30500;
+        sellPrice = 3560;
         illegal = true;
         edible = -1;
         icon = "icons\ico_heroinProcessed.paa";
@@ -483,8 +483,8 @@ class VirtualItems {
         variable = "marijuana";
         displayName = "STR_Item_Marijuana";
         weight = 3;
-        buyPrice = 2800;
-        sellPrice = 2350;
+        buyPrice = 5000;
+        sellPrice = 3500;
         illegal = true;
         edible = -1;
         icon = "icons\ico_marijuana.paa";
